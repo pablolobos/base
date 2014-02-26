@@ -1,8 +1,12 @@
 #Base Template
 
-##List of resources
+##Frameworks
 - HTML5 Boilerplate
 - Jquery
 - SASS
 - Compass
 - Normalize
+
+##Mixins
+- Rem font size
+
